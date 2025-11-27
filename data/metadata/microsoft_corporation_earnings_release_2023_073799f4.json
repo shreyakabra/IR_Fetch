@@ -1,0 +1,12 @@
+{
+  "company": "Microsoft Corporation",
+  "doc_type": "earnings release",
+  "year": 2023,
+  "file_path": "./data/downloads\\microsoft_corporation\\earnings_release\\2023\\microsoft_corporation_earnings_release_2023.pdf",
+  "filename": "microsoft_corporation_earnings_release_2023.pdf",
+  "url": "https://static.poder360.com.br/2023/01/balanco-Microsoft-ultimo-trimestre-fiscal-24.jan_.2023.pdf",
+  "sha256": "073799f4c8c1b33a07a1342367192f35203926b90c8da8a17e64e7b8d454f0c7",
+  "mimetype": "application/pdf",
+  "source": "Tavily",
+  "indexed_at": 1764226528
+}

@@ -1,0 +1,12 @@
+{
+  "company": "Apple Inc.",
+  "doc_type": "annual report",
+  "year": 2020,
+  "file_path": "./data/downloads\\apple_inc\\annual_report\\2020\\apple_inc_annual_report_2020.pdf",
+  "filename": "apple_inc_annual_report_2020.pdf",
+  "url": "https://s2.q4cdn.com/470004039/files/doc_financials/2020/ar/_10-K-2020-(As-Filed).pdf",
+  "sha256": "64e5a0844f9a596b182f74f289698665be924cf27a1e1c661f2e901308051c95",
+  "mimetype": "application/pdf",
+  "source": "Tavily",
+  "indexed_at": 1764227399
+}

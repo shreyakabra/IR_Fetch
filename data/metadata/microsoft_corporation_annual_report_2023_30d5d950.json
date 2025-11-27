@@ -1,0 +1,12 @@
+{
+  "company": "Microsoft Corporation",
+  "doc_type": "annual report",
+  "year": 2023,
+  "file_path": "./data/downloads\\microsoft_corporation\\annual_report\\2023\\microsoft_corporation_annual_report_2023.html",
+  "filename": "microsoft_corporation_annual_report_2023.html",
+  "url": "https://microsoft.gcs-web.com/sec-filings/sec-filing/10-k/0000950170-25-100235",
+  "sha256": "30d5d9509ef7722d6f2d9fc65ebd2094b63c186a58ed3ef0160c37b05fe9b86a",
+  "mimetype": "text/html; charset=UTF-8",
+  "source": "Tavily",
+  "indexed_at": 1764226328
+}
