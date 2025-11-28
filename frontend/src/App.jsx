@@ -3,7 +3,7 @@ import SearchForm from './components/SearchForm'
 import ResultsDisplay from './components/ResultsDisplay'
 import './App.css'
 
-const API_URL = 'http://localhost:8008'
+const API_URL = import.meta.env.VITE_API_BASE_URL
 
 function App() {
     const [results, setResults] = useState(null)
